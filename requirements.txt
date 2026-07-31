@@ -1,0 +1,10 @@
+%%writefile requirements.txt
+
+streamlit
+PyPDF2
+python-docx
+pandas
+numpy
+scikit-learn
+nltk
+spacy
